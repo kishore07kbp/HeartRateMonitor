@@ -1,9 +1,9 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/heart_rate_monitor
-    username: root
-    password: root
-    driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://ballast.proxy.rlwy.net:40366/railway
+      username: root
+      password: BjkMGQcRNrUcWwnYZxPqEwaoWsLyzBeL
+      driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
       ddl-auto: update
